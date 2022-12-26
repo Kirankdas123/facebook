@@ -1,0 +1,240 @@
+.head{
+    width:100%;
+    height:100px;
+    background: rgb(16, 63, 150);
+   
+}
+body{
+    margin: 0;
+    font-family:Helvetica Neue,Helvetica , Arial, sans-serif;
+   
+}
+*{
+    margin:0
+    }
+.head-left{
+width:50%;
+padding-top: 35px;
+float: left;
+}
+.head-right{
+    width: 30%;
+    float: left;
+    margin-left: 56px;
+}
+.facebook{
+    color: white;
+    text-decoration: none;
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 123px;
+    font-family: Helvetica Neue,Helvetica , Arial, sans-serif;
+}
+.login-label{
+    color: aliceblue;
+    font-size:11px;
+}
+.user-data{
+    margin-top:5px;
+}
+.forgotten{
+    color: rgba(255, 255, 255, 0.37);
+    font-size:13Px;
+
+}
+.login{
+    background-color: rgb(16, 63, 150);
+    color: #fff;
+    height: 20px;
+    border-color: gray;
+    cursor: pointer;
+}
+.login:hover{
+    background:rgba(44, 88, 168, 0.753);
+}
+.body-left{
+    width: 50%;
+    margin-top: 72px;
+    float: left;
+    margin-top:41px;
+    margin-left:50px;
+}
+.body-right{
+    width: 30%;
+    float: left;
+    margin-left: -82px;
+    margin-top: 52px;
+
+}
+.main-body{
+    background:linear-gradient(white,#d3d8e8);
+    width:100%;
+    height: 940px;;
+}
+.para{
+    color: rgba(21, 46, 126, 0.795);
+    margin-left: 88px;
+    margin-top: 22px;
+    font-weight: bold;
+    font-size: 25px;
+    
+    
+}
+.img{
+    margin-left: -27px;
+    margin-top: 67px;
+    opacity: 0.7;
+    filter: drop-shadow(-22px -8px 10px rgba(0,0,0,0.6));
+
+}
+.account{
+    font-size: 40px;
+    font-weight: bold;
+}
+.easy{
+    font-size: 26px;
+    font: 400px;
+    margin-left: 6px;
+    
+}
+.First{
+    width: 264px;
+    height: 37px;
+    margin-top: 23px;
+    margin-left: -83px;
+    font-size: 20.2px;
+    border-radius: 7px;
+    background: white;
+    border: 1px solid #ccd0d5;
+}
+.second{
+    width: 264px;
+    height: 37px;
+    margin-top: 23px;
+    margin-left: 36px;
+    font-size: 20.2px;
+    border-radius: 7px;
+    background: white;
+    border: 1px solid #ccd0d5;
+}
+.mobile{
+    margin-left: -83px;
+    width: 577px;
+    height: 37px;
+    margin-top: 19px;
+    font-size: 20.2px;
+    border-radius: 7px;
+    background: white;
+    border: 1px solid #ccd0d5;
+}
+.password{
+  
+        margin-left: -83px;
+        margin-top: 19px;
+        width: 577px;
+        width: 577px;
+        border-radius: 7px;
+        height: 37px;
+        font-size: 20.2px;
+        border: 1px solid #ccd0d5;
+
+}
+.dateofbirth{
+    margin-top: 28px;
+    margin-left: -83px;
+    font-size: 24px;
+    font-weight: bold;
+    opacity: 0.5;
+    
+}
+.datefieldday{
+    margin-left: -83px;
+    margin-top: 20px;
+    border-radius: 7px;
+    width: 44px;
+    height: 24px;
+    border: 1px solid #ccd0d5;
+}
+#gMonth1{
+    margin-left: 5px;
+    margin-top: 20px;
+    border-radius: 7px;
+    width: 80px;
+    height: 24px;
+    border: 1px solid #ccd0d5;
+}
+.datefieldyear{
+    margin-left: 5px;
+    margin-top: 20px;
+    border-radius: 7px;
+    width: 55px;
+    height: 24px;
+    
+}
+.genter{
+    margin-top: 28px;
+    margin-left: -83px;
+    font-size: 24px;
+    font-weight: bold;
+    opacity: 0.5;
+}.female{
+    margin-top: 14px;
+    margin-left: -83px;
+    font-size: 14px;
+    font-weight: bold;
+   
+}.male{
+    margin-top: 14px;
+    margin-left: 10px;
+    font-size: 14px;
+    font-weight: bold;
+   
+}.custom{
+    margin-top: 14px;
+    margin-left: 10px;
+    font-size: 14px;
+    font-weight: bold;
+}.terms{
+    margin-top: 26px;
+    margin-left: -83px;
+    opacity:0.7;
+    text-decoration: none;
+}.data{
+    color: rgb(39, 32, 105);
+    font-size: 17px;
+   
+    
+}#signup{
+
+    margin-top: 24px;
+    margin-left: -83px;
+    width: 209px;
+    height: 49px;
+    border-radius: 11px;
+    background: none;
+    color: white;
+    font-weight:600;
+    font-size: 20px;
+    border: none;
+    box-shadow: none;
+    background-color: #00a400;
+
+    /* background: none;
+    background-color: #00a400;
+    border: none;
+    border-radius: 26px;
+    box-shadow: none;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    height: 36px;
+    overflow: hidden;
+    padding: 0 32px;
+    text-shadow: none; */
+    
+}.tail{
+    width: 100%;
+    height: 281px;
+    background: linear-gradient( #00a400  ,#23722c );
+}
+   

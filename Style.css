@@ -1,0 +1,77 @@
+body{background-color: rgb(255, 255, 255);
+/* background-image: url("https://assets.justinmind.com/wp-content/webp-express/webp-images/uploads/2020/02/website-background-design-guide-768x492.png.webp"); */
+}
+
+h1{color: #00c22a;
+font-family:verdana;
+font-size: 200%;
+background-color: rgb(137, 1, 155);
+}
+
+p{color: rgb(50, 223, 208);
+font-size: 150%;
+font-family: courier;
+background-color: rgb(70, 67, 62);
+}
+table{
+    border: 1px solid red;
+    border-collapse: collapse;
+    background-color: rgb(27, 226, 116);
+ 
+}
+td,th{
+    text-align: center;
+    padding: 10px;
+}
+th{background-color: rgba(0, 0, 0, 0.863);
+    color: rgb(245, 245, 245);
+}
+td{
+    color: blanchedalmond;
+}
+h3{background-color: rgb(41, 171, 223);}
+a:link{text-decoration: none;
+}
+a:hover{color: rgb(236, 0, 0);}
+#hai{
+    color: rgb(196, 34, 109);
+}
+#guard{
+    border: #c01c38;
+}
+#paragraph{
+    color: fuchsia;
+    background-color: rgba(65, 59, 59, 0.966);
+}
+.meta{
+    color: #00c22a;
+    background-color: white;
+}
+div{
+    
+    width: 300px;
+    height: 300px;
+    color: rgb(219, 17, 94);
+    background-color: aqua;
+    border-radius:25px;;
+    margin-left:210px;
+    padding-left: 50px;
+    border: 5px solid;;;;
+    border-color: rgb(62, 39, 168);
+    
+
+}
+.hai{
+   background-color: white;size: 20px;
+   margin-right: 20px;
+}
+#twobox{
+background-color: #00c22a;
+width: 50px;
+height: 50px;
+}
+.secondbox{
+    width: 10px;
+    height: 10px;
+    background-color: #c01c38;
+}
